@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "fda0297a719a0857",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9431556098a99cf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "学习/2022/english/daily learning.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80fa7f3a8bbd2c64",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fc624ee8dd8e433",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4abbf7dd9d6cfeb0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2b6b2944badf178a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8c0e83bf82d7b297",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8fd8c813c64202d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "179de953bd088c3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "794a8fa5dac4c406",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "学习/2022/english/daily learning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b3abda80b8ccb2a1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "学习/2022/english/daily learning.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f200fa549f8418e4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "325f52cbb76a1886",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "学习/2022/english/daily learning.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e9431556098a99cf",
+  "lastOpenFiles": [
+    "技术/vpn/v2ray+tls+cloundflare救活被墙vps.md"
+  ]
+}
