@@ -12,7 +12,7 @@ organism 有机体；生物
 suspend 中止，悬挂；吊；暂停
 religious 宗教的，虔诚的
 
-lodge 小屋；支部
+jlodge 小屋；支部
 plough 犁；耕； vt
 attack 攻击，袭击 n; 攻击，袭击 v;
 probably 或许，大概 adv；
@@ -48,3 +48,38 @@ round 圆的，球形的 adj; 环形的 adv; 一圈，圆，圆形物 n; 使成�
 mat 垫子；席子，草席 n; 遮盖 用垫子做装饰 v;
 
 ## 2022-09-01
+preperation 准备工作，准备 n;
+italian 意大利的 adj; 意大利人 n;
+financial 金融的 adj;
+exhaust 使筋疲力尽；耗尽；排空 vt; 排气 n;
+explode 爆炸，爆发，激增 vi; 爆破 vt;
+ask 询问，要求，邀请 v;
+anybody 随便哪个人，任何人 pron; 重要人物 n;
+cunning 狡猾的，可爱的 adj; 狡猾，精巧 n;
+automation 自动化 n;
+automobile 汽车，机动车 n; 汽车的 adj;
+dorm 宿舍 n;
+drop 降低，滴，微量，落下 n; 使落下，减少 v;
+holiday 节日，假期 n; 度假，休假vi;
+emphasize 强调，着重 v;
+significance 重要性，意义，含义 n;
+
+## 2022-09-02
+soluble 可溶解的，可解决的 adj;
+tranformation 变化，改造，转变，转型 n;
+require 要求，规定，需要 v;
+needle 针 n; 缝纫，刺激，嘲弄 v;
+yard 院，场地，码 n;
+transmission 传输，发射，传播，变速器，传递的信息 n;
+exterior 外部的，在外面的，外界的，外交上的 adj; 外貌，外观，外表 n;
+concern 关心，担忧，所关心的事，关系 n; 涉及，关于，担心 v;
+cloak 斗篷，披风，覆盖物 n; 掩饰 v;
+coach 教练，长途汽车，旅客车厢 n; 训练，指导 v;
+capable 有本领的，有能力的，有才能的，能干的，足以胜任的 adj;
+decent 体面的，得体的，正派的，合宜的，相当不错的 adj;
+cooperate 合作，协作，配合 vi;
+cream 奶油，乳脂，奶油色 n;
+thermometer 温度计 n;
+sly 狡猾的，奸诈的，诡异的，躲躲闪闪的，偷偷摸摸的 adj;
+blast 爆炸，冲击波 n; 炸，炸毁 v;
+economic 经济上的，经济学的 adj;
