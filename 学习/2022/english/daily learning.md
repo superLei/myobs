@@ -83,3 +83,4 @@ thermometer 温度计 n;
 sly 狡猾的，奸诈的，诡异的，躲躲闪闪的，偷偷摸摸的 adj;
 blast 爆炸，冲击波 n; 炸，炸毁 v;
 economic 经济上的，经济学的 adj;
+G
