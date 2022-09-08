@@ -113,7 +113,16 @@ accommodate 容纳，适应，为....提供住处,给...提供方便，使一致
 comfortable 令人舒适的，感到舒服的，安逸的，自信的，自在的 adj;
 applicable 适用的，合适的，可应用的 adj;
 authority 权威，威信，当局，官方，当权者，权力，职权 n;
-
+mount 登上，爬上，提升，装备，增长，骑上 v;山，山峰 n;
+stair 楼梯，阶梯 n;
+hostile 怀有敌意的，敌对的，敌方的 adj;
+inquire 打听，询问， 调查 v;
+sponge 海绵，松蛋糕 n; 用湿海绵擦，揩 v;
+slipper 拖鞋，便鞋 n;
+relief 缓解，减轻，安慰，救济金，对比 n;
+used 习惯的，惯常的，旧的，二手的，使用过的 adj;
+mug 大杯，恶棍 n;  扮鬼脸，攻击，对..行抢劫 v;
+shriek 
 
 
 
