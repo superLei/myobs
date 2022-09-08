@@ -122,7 +122,10 @@ slipper 拖鞋，便鞋 n;
 relief 缓解，减轻，安慰，救济金，对比 n;
 used 习惯的，惯常的，旧的，二手的，使用过的 adj;
 mug 大杯，恶棍 n;  扮鬼脸，攻击，对..行抢劫 v;
-shriek 
+shriek 尖叫，尖声讲 v; 尖叫，尖叫声 n;
+thick 厚的，稠的，浓的 adj; 密集处，最厚处 n;
+waterproof 防水的adj; 防水物，防水材料，雨衣 n; 做防水处理 v;
+
 
 
 
