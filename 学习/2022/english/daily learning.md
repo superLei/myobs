@@ -107,7 +107,9 @@ orchard 果园 n;
 well 顺利的，很好地，彻底的，完全地 adv;  健康的，良好的，适宜的 adj;  嗯，啊，唔,好吧excl;
 spy 间谍，密探 n; 暗中监视，突然看见，发现 v;
 soldier 士兵，军人，偷懒者，兵蚁 n; 当兵 v;
-tram 有轨电车，矿车，煤车
+tram 有轨电车，矿车，煤车，缆车 n; 用缆车、电车等运输 v;
+communist  共产主义者，共产党员 n; 共产主义的 adj;
+accommodate 容纳，适应，为....提供住处
 
 
 
