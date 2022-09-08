@@ -109,7 +109,12 @@ spy 间谍，密探 n; 暗中监视，突然看见，发现 v;
 soldier 士兵，军人，偷懒者，兵蚁 n; 当兵 v;
 tram 有轨电车，矿车，煤车，缆车 n; 用缆车、电车等运输 v;
 communist  共产主义者，共产党员 n; 共产主义的 adj;
-accommodate 容纳，适应，为....提供住处
+accommodate 容纳，适应，为....提供住处,给...提供方便，使一致，和解 v;
+comfortable 令人舒适的，感到舒服的，安逸的，自信的，自在的 adj;
+applicable 适用的，合适的，可应用的 adj;
+authority 权威，威信，当局，官方，当权者，权力，职权 n;
+
+
 
 
 
