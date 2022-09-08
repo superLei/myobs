@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8fd8c813c64202d7",
@@ -138,7 +139,7 @@
   },
   "active": "e9431556098a99cf",
   "lastOpenFiles": [
-    "技术/go/go debug vscode.md",
+    "技术/vscode/vscode debug.md",
     "学习/2022/english/daily learning.md",
     "技术/vpn/v2ray+tls+cloundflare救活被墙vps.md",
     "2022-09-02.md"
