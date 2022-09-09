@@ -61,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "8fd8c813c64202d7",
@@ -140,7 +139,6 @@
   "active": "e9431556098a99cf",
   "lastOpenFiles": [
     "学习/2022/english/daily learning.md",
-    "学习/2022/english/英语句子学习.md",
     "技术/vscode/vscode debug.md",
     "技术/vpn/v2ray+tls+cloundflare救活被墙vps.md",
     "2022-09-02.md"
