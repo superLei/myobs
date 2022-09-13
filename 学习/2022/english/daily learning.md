@@ -140,3 +140,8 @@ organization 组织，体制，团体，机构 n; 有组织的 adj;
 largely 大部分的，主要的，大量的 adj;
 log 原木，航海日志，计程仪 n; 伐木，记录，航行 v;
 ounce 盎司 n;
+lantern 灯笼，提灯 n;
+statue 雕像，雕塑 n;
+scout 童子军，侦察员，守卫 n; 侦察，寻找，物色 v;
+vertical  垂直的，顶点的adj; 垂直物，垂直的位置 n;
+rob 抢劫，盗取 v;
