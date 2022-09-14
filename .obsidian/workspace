@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "学习/2022/english/daily learning.md",
+            "file": "学习/2022/english/英语句子学习.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习/2022/english/daily learning.md",
+                "file": "学习/2022/english/英语句子学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习/2022/english/daily learning.md",
+                "file": "学习/2022/english/英语句子学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习/2022/english/daily learning.md"
+                "file": "学习/2022/english/英语句子学习.md"
               }
             }
           },
@@ -138,8 +138,8 @@
   },
   "active": "e9431556098a99cf",
   "lastOpenFiles": [
-    "学习/2022/english/英语句子学习.md",
     "学习/2022/english/daily learning.md",
+    "学习/2022/english/英语句子学习.md",
     "技术/vscode/vscode debug.md",
     "技术/vpn/v2ray+tls+cloundflare救活被墙vps.md",
     "2022-09-02.md"
