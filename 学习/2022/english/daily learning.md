@@ -162,3 +162,11 @@ glance 一瞥，扫视，反光 n; 看一下，反光 v;
 globe 地球，世界，球体，地球仪 n;
 receipt 收据，收条，收到 n;
 pioneer 开辟，首倡 vt; 开拓者，先锋，先驱 n;
+onto 到....之上，向....之上，朝....之上 prep;
+oh 噢，哦 int;
+jury 陪审团，裁判团，评委团 n;  临时用的adj; 挑选 v;
+mosquito 蚊子 n;
+session 一段时间的（活动），会议，开庭，一场，学期 n;
+cassette 录像带，盒式磁带，磁带盒 n;
+to 向，往，对...，给....，于....，到...，达... prep; (表示方向)去，（门）关上 adv;
+uniform 制服，军服 n; 相同的，统一的，一致的 adj; 穿制re
