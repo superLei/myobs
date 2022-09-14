@@ -154,4 +154,10 @@ dictation 口述，听写 n;
 bite 咬下的一口，少量食物，咬伤的伤口 n; 咬 ，叮，蜇，刺穿 v;
 belief 信仰，信任，相信，信念 n;
 core 核习，要点，果心，核 n; 去核 v;
-annoy 使烦恼，使生气，打扰，骚
+annoy 使烦恼，使生气，打扰，骚扰 v;
+arise 出现，由...引起，发生 vi;
+agreement 一致，相合，同意，协议，协定 n;
+harmony 和谐，协调，各声，各睦 n;
+glance 一瞥，扫视，反光 n; 看一下，反光 v;
+globe 地球，世界，球体，地球仪 n;
+bath 
