@@ -160,4 +160,5 @@ agreement 一致，相合，同意，协议，协定 n;
 harmony 和谐，协调，各声，各睦 n;
 glance 一瞥，扫视，反光 n; 看一下，反光 v;
 globe 地球，世界，球体，地球仪 n;
-bath 
+receipt 收据，收条，收到 n;
+pioneer 开辟，首倡 vt; 开拓者，先锋，先驱 n;
