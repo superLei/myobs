@@ -11,7 +11,6 @@ resemble 像；类似
 organism 有机体；生物
 suspend 中止，悬挂；吊；暂停
 religious 宗教的，虔诚的
-
 jlodge 小屋；支部
 plough 犁；耕； vt
 attack 攻击，袭击 n; 攻击，袭击 v;
