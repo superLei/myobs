@@ -177,4 +177,10 @@ tame 驯服的，温顺的，顺从的，枯燥的 adj; 驯服 v;
 silence 寂静，沉默 n; 使沉默 v;
 chain 连锁店，链条，项圈，束缚 n; 用链条拴住，束缚v;
 unsuitable  不合适的 adj
-treat 对待，治疗，请客，款待，视为 v; ff
+treat 对待，治疗，请客，款待，视为 v; 款待，请客 n;
+regret 后悔，惋惜，抱歉 v; 歉意，懊悔，遗憾 n;
+urge 催促，鞭策 v; 冲动 n;
+especially 特别，尤其，格外 adv;
+childhood 童年 n;
+charity 慈善机构 n;
+eager 热切的，渴望的，急不可耐的 adj;
