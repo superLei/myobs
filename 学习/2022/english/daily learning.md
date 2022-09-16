@@ -184,3 +184,13 @@ especially 特别，尤其，格外 adv;
 childhood 童年 n;
 charity 慈善机构 n;
 eager 热切的，渴望的，急不可耐的 adj;
+drift 漂流 v; 漂流，漂移，漂流物，趋势 n;
+enormous 巨大的，庞大的 adj;
+carbon 碳，灯芯，复写纸 n;
+bureau  局，司，处，社，所 n;
+emerge 出现，浮现，显露，暴露 vi;
+cattle 牛，牲口 n;
+economical 节约的，经济的，合算的 adj;
+equation 方程式，等式，相等，均衡 n;
+dull 枯燥的，沉闷的，无聊的 adj; 使变钝 v;
+wreck 破坏，使毁灭 v; (事故中)遭严重损坏的汽车等
