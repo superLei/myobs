@@ -207,4 +207,19 @@ She uses a blue towel to  dry her hair.
 infer 推断，暗示v;
 He infers from the thick black smoke that there is a fire.
 hook 钓钩，钩，钩拳 n; 钩住 v;
-The hook can use for fishing
+The hook is used for fishing.
+honour 光荣，尊敬，敬意，荣誉 n; 尊敬，况现承诺 v;
+graduating from this school is a great honour.
+exposure 暴露，揭露，揭发，曝光，曝光时间 n;
+Because of exposure to the sun, Mr corn is burnt.
+enthusiastic 热情的，热心的 adj;
+i was given an enthusiastic welcome on my first day of my new job.
+rope 绳索 n; 用绳捆 v;
+how thick a rope do we need?
+scream 尖叫 n; 尖叫着说出，大声叫，高声喊 v;
+He let out a scream.
+steady 稳定的，平稳的，坚定的，扎实的 adj; 使稳定，使稳固 v;
+There have been no decreases or increases; the graph is steady.
+extension 扩建部分，扩展，扩大，电话分机 n;
+We plan to build an extension to our house.
+
