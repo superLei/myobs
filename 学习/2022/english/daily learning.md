@@ -232,4 +232,15 @@ expansion 扩大，扩充，扩张，扩展，膨胀 n;
 Our company has gone through steady expansion for the last ten years.
 emotion 情绪，感情 n;
 She expressed different emotions when watching the TV series.
-indignant 愤
+indignant 愤慨的，愤愤不平的 adj
+He is indignant about the unfair treatment that the dog received.
+enforce 执行，强制 v;
+The new parking restrictions will be strictly enforced.
+civil 民用的，公民的，国内的，文职的，有礼貌的，客气的 adj;
+A civil aircraft is used for taking passengers.
+chase 追赶，狩猎 v; 追逐，追求，狩猎 n;
+The cat is chasing the mouse.
+criticize 批评，评论，挑剔，责难 v;
+The teacher is criticizing the student for being late.
+corridor 走廊，回廊，通道 n;
+The doctors and nurses are talking in the corridor.
