@@ -222,4 +222,14 @@ steady 稳定的，平稳的，坚定的，扎实的 adj; 使稳定，使稳固 
 There have been no decreases or increases; the graph is steady.
 extension 扩建部分，扩展，扩大，电话分机 n;
 We plan to build an extension to our house.
-
+influential  有极大影响力的，有支配力的 adj; 有影响力的人物 n;
+He is such an influential start that many peope copy his look.
+enemy 敌人，敌军，敌对势力，危害物 n;
+The man who holds the pan is his last enemy.
+entry 进入，入口处，登记，加入 n;
+He made his entry into the meeting room.
+expansion 扩大，扩充，扩张，扩展，膨胀 n;
+Our company has gone through steady expansion for the last ten years.
+emotion 情绪，感情 n;
+She expressed different emotions when watching the TV series.
+indignant 愤
