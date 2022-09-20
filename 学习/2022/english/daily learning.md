@@ -193,3 +193,18 @@ economical 节约的，经济的，合算的 adj;
 equation 方程式，等式，相等，均衡 n;
 dull 枯燥的，沉闷的，无聊的 adj; 使变钝 v;
 wreck 破坏，使毁灭 v; (事故中)遭严重损坏的汽车等
+
+## 2022-09-20
+
+thirsty 口渴的，渴望的 adj;
+The girl is so thirsty wandering in the desert.
+unjust 不公平的 adj;  
+It was an unjust trial!
+lorry 运货汽车，卡车 n;
+The lorry is carrying a lot of stuff.
+towel 毛巾，手巾 n; 用毛巾擦 v;
+She uses a blue towel to  dry her hair.
+infer 推断，暗示v;
+He infers from the thick black smoke that there is a fire.
+hook 钓钩，钩，钩拳 n; 钩住 v;
+The hook can use for fishing
