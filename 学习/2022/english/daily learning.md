@@ -267,4 +267,14 @@ The cop tossed a smoke bomb towards the enemies.
 rumour 谣言，传闻 n; 谣传，传闻 v;
 Online rumours shouldn't be trusted.
 radiation 辐射，放射物 n;
-Don't close to the radation if you 
+Don't get close to radation if you are not in a protective suit.
+proper 适合的，适用的，正确的，恰当的 adj;
+you should wear a proper outfit at a cocktail party.
+stain 弄脏，玷污，染色 v; 污渍，污迹，染料，着色剂 n;
+His closing is stained with ketchup.
+stroke 击打，鸣声，中风，笔画，连续的动作，心跳，抚摸 n; 奉承，轻抚，击打，心跳 v;
+He hit the ball cleanly with a beautiful stroke.
+refrigerator 冰箱，冷藏库 n;
+Mom put a pot of soup into the fefrigerator.
+audience 观众，听众，读者，拥护者，正式会见 n;
+
