@@ -244,3 +244,12 @@ criticize 批评，评论，挑剔，责难 v;
 The teacher is criticizing the student for being late.
 corridor 走廊，回廊，通道 n;
 The doctors and nurses are talking in the corridor.
+
+
+## 2022-09-21
+
+definitely 肯定地，毫无疑问地，明确地，确定地 adv;
+The run rises definitely from the east.
+downstairs 在楼下地，往楼下地 adv;楼下的 adj; 楼下n;
+They are running downstairs.
+
