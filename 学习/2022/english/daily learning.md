@@ -252,4 +252,19 @@ definitely 肯定地，毫无疑问地，明确地，确定地 adv;
 The run rises definitely from the east.
 downstairs 在楼下地，往楼下地 adv;楼下的 adj; 楼下n;
 They are running downstairs.
-
+dictate 口授，命令，听写 v; 命令，指令 n;
+i dictate a letter to my secretary.
+describe 描述，形容 v;
+She descirbed her missing child to passer-by.
+meantime 同时，其间 n; 同时，当时adv;
+The movie starts in 10 minutes, in the meantime, let's get some popcorn.
+sadness 悲伤，悲哀 n;
+The boy looked at the ice cream on the ground with great sadness.
+primary 主要的，基本的，首要的，最初的，初等教育的 adj; 首选 n;
+we can mark our primary tasks on a piece of paper.
+toss 扔，抛，掷 v; 掷，掷钱币来决定 n;
+The cop tossed a smoke bomb towards the enemies.
+rumour 谣言，传闻 n; 谣传，传闻 v;
+Online rumours shouldn't be trusted.
+radiation 辐射，放射物 n;
+Don't close to the radation if you 
