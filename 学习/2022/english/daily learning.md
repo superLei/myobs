@@ -277,4 +277,18 @@ He hit the ball cleanly with a beautiful stroke.
 refrigerator 冰箱，冷藏库 n;
 Mom put a pot of soup into the fefrigerator.
 audience 观众，听众，读者，拥护者，正式会见 n;
-
+The audience listened carefully to the speaker.
+being 存在，生物，生命 n; 存在，处于，是v; 现在的，目前的 adj;
+The universe came into being as a result of a big bang.
+derive 源自，获得，得自，引申于 v;
+The English word "teacher" derives from the root word "teach".
+doubt 怀疑， 不确定 v; 怀疑，疑虑 n;
+I really doubt whether aliens exist.
+drum 鼓，鼓声，鼓状物，圆桶 n; 击鼓，连续敲击，引起兴趣 v;
+The little guy shows his talent at playing the drum.
+employer 雇主，老板 n;
+The girl is hired by the employer.
+honesty 诚实，正直 n;
+The boy shows honesty by saying that he broke the vase.
+infect 传染，感染 v;
+He was infected with the cold by his colleague.
