@@ -305,4 +305,7 @@ He looked different somehow.
 ### wealth
 n. 财富，财产，大量
 He is a man of  great wealth.
-
+### cope
+vi. 处理，对付，对抗
+vt. 笼罩
+n. 长袍，斗篷关覆`
