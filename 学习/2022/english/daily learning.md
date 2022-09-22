@@ -292,3 +292,7 @@ honesty 诚实，正直 n;
 The boy shows honesty by saying that he broke the vase.
 infect 传染，感染 v;
 He was infected with the cold by his colleague.
+
+## 2022-09-22
+inhabit 居住于，栖息于，占据 v;
+Primitive tribes 
