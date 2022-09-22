@@ -295,4 +295,14 @@ He was infected with the cold by his colleague.
 
 ## 2022-09-22
 inhabit 居住于，栖息于，占据 v;
-Primitive tribes 
+Primitive tribes used to inhabit these forests.
+journal 定期刊物，杂志，报纸，日志，日记 n;
+These are very popular literary jjournals.
+sin 罪孽，罪过，错误，过失 n; 犯过失，违反戒律 v;
+There are seven deadly sins in early Catholic teachings.
+somehow 出于某种原因，不知怎么地。以某种方式。adv;
+He looked different somehow.
+### wealth
+n. 财富，财产，大量
+He is a man of  great wealth.
+
