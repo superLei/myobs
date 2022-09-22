@@ -308,4 +308,8 @@ He is a man of  great wealth.
 ### cope
 vi. 处理，对付，对抗
 vt. 笼罩
-n. 长袍，斗篷关覆`
+n. 长袍，斗篷状覆盖物
+The experienced captain can cope with the dangerous situation and find a solution.
+### architecture
+n. 建筑学，建筑风格，建筑设计，建筑业，建筑体系，建筑物
+Our professor is explaining the theory of the architecture in class.
