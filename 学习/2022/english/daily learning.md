@@ -315,7 +315,7 @@ n. 建筑学，建筑风格，建筑设计，建筑业，建筑体系，建筑�
 Our professor is explaining the theory of the architecture in class.
 ### modest
 adj. 谦虚的，端庄的，适度的，有节制的
-He is always modest about his excllent grades.
+He is always modest about his excellent grades.
 ### courage
 n. 勇气，胆量
 It needs a lot of courage for the little girl to climb the rock wall.
@@ -332,4 +332,18 @@ adj. 劳工的，劳动的
 - These two people work in manual labor.
 ### manual
 adj. 手工的，体力的，手动的，用手操作的
-n. 使用手册
+n. 使用手册，说明书，手动换挡的车辆
+### intellectual
+adj. 智力的，聪明的
+n. 知识分子，凭理智做事者
+- Newton's intellectual mind had been inspired by an apple.
+### interest
+n. 兴趣，利益，利息，嗜好，股份
+v. 使感兴趣
+- The little boy read the book with  great interest.
+### undertaking
+n. 任务，事业，企业，承诺，保证
+- Moving this stone is a difficult undertaking for him.
+### manufacturer
+n. 制造商，制造厂
+- Our company is a large manufacturer
