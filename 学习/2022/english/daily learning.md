@@ -374,4 +374,20 @@ n. 考试，试卷
 adv. 极其，非常，极端地
 - Compared with Earth, the Sun is extremely large.
 ### injure
-vt. 使受伤，损害，使....受冤nb
+vt. 使受伤，损害，使....受冤屈
+- The worker injured himself at construction site.
+### equivalent
+adj. 相等的，等值的
+n. 等价物
+- The price of the luxury car is equivalent to ten times his annual salary.
+### rat
+n. 老鼠，耗子，卑鄙的人，变节者
+v. 揭发
+- Look! The three rats waving to us.
+### ordinary
+adj. 普通的，平常的，平淡的，平庸的
+- I'm just a ordinary man.
+### sketch
+v. 画素描，描绘略图，写生
+n. 素描，草图，速写，梗概
+- The artist sketched a dress on the paper.
