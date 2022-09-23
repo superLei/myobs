@@ -353,4 +353,25 @@ adj. 家用的，家务的，全家人的，家喻户晓的，皇家的
 ### liar
 n. 说谎的人
 ### distinguish
-v. 区别，识别，辨
+v. 区别，识别，辨别，使显著
+- It's easy to distinguish the blue man from the gray men.
+### echo
+n. 回声，反响，共鸣
+vt. 重复，流传，呼应
+- If you shout in this valley, you'll hear an echo.
+### valley
+n. 山谷，流域，溪谷
+### heap
+n. (一)堆，大量
+v. 堆积
+- There is a heap of sand on the ground.
+### disappoint
+v. 使失望，使受挫折
+- The exam result disappointed him.
+### exam
+n. 考试，试卷
+### extremely
+adv. 极其，非常，极端地
+- Compared with Earth, the Sun is extremely large.
+### injure
+vt. 使受伤，损害，使....受冤nb
