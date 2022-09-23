@@ -313,3 +313,23 @@ The experienced captain can cope with the dangerous situation and find a solutio
 ### architecture
 n. 建筑学，建筑风格，建筑设计，建筑业，建筑体系，建筑物
 Our professor is explaining the theory of the architecture in class.
+### modest
+adj. 谦虚的，端庄的，适度的，有节制的
+He is always modest about his excllent grades.
+### courage
+n. 勇气，胆量
+It needs a lot of courage for the little girl to climb the rock wall.
+### appetite
+n. 食欲，胃口，强烈欲望，嗜好
+Wow, what a huge appetite you have!
+### agent 
+n. 代理商，代理人，特工，药剂
+The agent helped us buy a new house.
+### labor
+n. 劳动，劳力，劳工，劳方
+v. 劳动，苦干，分娩阵痛，致力于，过分详尽阐述
+adj. 劳工的，劳动的
+- These two people work in manual labor.
+### manual
+adj. 手工的，体力的，手动的，用手操作的
+n. 使用手册
