@@ -346,4 +346,11 @@ n. 任务，事业，企业，承诺，保证
 - Moving this stone is a difficult undertaking for him.
 ### manufacturer
 n. 制造商，制造厂
-- Our company is a large manufacturer
+- Our company is a large manufacturer of household goods.
+### household 
+n. 家庭，一家人，家务，王室
+adj. 家用的，家务的，全家人的，家喻户晓的，皇家的
+### liar
+n. 说谎的人
+### distinguish
+v. 区别，识别，辨
