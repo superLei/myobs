@@ -1,5 +1,5 @@
 ## 2022-08-29
->> vi 不及物动词
+> vi 不及物动词
 
 inferior 低等的；低劣的
 sensitive 敏感的；灵敏的；易受伤害的；善解人意的
@@ -11,7 +11,6 @@ resemble 像；类似
 organism 有机体；生物
 suspend 中止，悬挂；吊；暂停
 religious 宗教的，虔诚的
-
 jlodge 小屋；支部
 plough 犁；耕； vt
 attack 攻击，袭击 n; 攻击，袭击 v;
@@ -170,3 +169,225 @@ session 一段时间的（活动），会议，开庭，一场，学期 n;
 cassette 录像带，盒式磁带，磁带盒 n;
 to 向，往，对...，给....，于....，到...，达... prep; (表示方向)去，（门）关上 adv;
 uniform 制服，军服 n; 相同的，统一的，一致的 adj; 穿制服，使统一 v;
+
+## 2022-09-16
+
+tame 驯服的，温顺的，顺从的，枯燥的 adj; 驯服 v;
+silence 寂静，沉默 n; 使沉默 v;
+chain 连锁店，链条，项圈，束缚 n; 用链条拴住，束缚v;
+unsuitable  不合适的 adj
+treat 对待，治疗，请客，款待，视为 v; 款待，请客 n;
+regret 后悔，惋惜，抱歉 v; 歉意，懊悔，遗憾 n;
+urge 催促，鞭策 v; 冲动 n;
+especially 特别，尤其，格外 adv;
+childhood 童年 n;
+charity 慈善机构 n;
+eager 热切的，渴望的，急不可耐的 adj;
+drift 漂流 v; 漂流，漂移，漂流物，趋势 n;
+enormous 巨大的，庞大的 adj;
+carbon 碳，灯芯，复写纸 n;
+bureau  局，司，处，社，所 n;
+emerge 出现，浮现，显露，暴露 vi;
+cattle 牛，牲口 n;
+economical 节约的，经济的，合算的 adj;
+equation 方程式，等式，相等，均衡 n;
+dull 枯燥的，沉闷的，无聊的 adj; 使变钝 v;
+wreck 破坏，使毁灭 v; (事故中)遭严重损坏的汽车等
+
+## 2022-09-20
+
+thirsty 口渴的，渴望的 adj;
+The girl is so thirsty wandering in the desert.
+unjust 不公平的 adj;  
+It was an unjust trial!
+lorry 运货汽车，卡车 n;
+The lorry is carrying a lot of stuff.
+towel 毛巾，手巾 n; 用毛巾擦 v;
+She uses a blue towel to  dry her hair.
+infer 推断，暗示v;
+He infers from the thick black smoke that there is a fire.
+hook 钓钩，钩，钩拳 n; 钩住 v;
+The hook is used for fishing.
+honour 光荣，尊敬，敬意，荣誉 n; 尊敬，况现承诺 v;
+graduating from this school is a great honour.
+exposure 暴露，揭露，揭发，曝光，曝光时间 n;
+Because of exposure to the sun, Mr corn is burnt.
+enthusiastic 热情的，热心的 adj;
+i was given an enthusiastic welcome on my first day of my new job.
+rope 绳索 n; 用绳捆 v;
+how thick a rope do we need?
+scream 尖叫 n; 尖叫着说出，大声叫，高声喊 v;
+He let out a scream.
+steady 稳定的，平稳的，坚定的，扎实的 adj; 使稳定，使稳固 v;
+There have been no decreases or increases; the graph is steady.
+extension 扩建部分，扩展，扩大，电话分机 n;
+We plan to build an extension to our house.
+influential  有极大影响力的，有支配力的 adj; 有影响力的人物 n;
+He is such an influential start that many peope copy his look.
+enemy 敌人，敌军，敌对势力，危害物 n;
+The man who holds the pan is his last enemy.
+entry 进入，入口处，登记，加入 n;
+He made his entry into the meeting room.
+expansion 扩大，扩充，扩张，扩展，膨胀 n;
+Our company has gone through steady expansion for the last ten years.
+emotion 情绪，感情 n;
+She expressed different emotions when watching the TV series.
+indignant 愤慨的，愤愤不平的 adj
+He is indignant about the unfair treatment that the dog received.
+enforce 执行，强制 v;
+The new parking restrictions will be strictly enforced.
+civil 民用的，公民的，国内的，文职的，有礼貌的，客气的 adj;
+A civil aircraft is used for taking passengers.
+chase 追赶，狩猎 v; 追逐，追求，狩猎 n;
+The cat is chasing the mouse.
+criticize 批评，评论，挑剔，责难 v;
+The teacher is criticizing the student for being late.
+corridor 走廊，回廊，通道 n;
+The doctors and nurses are talking in the corridor.
+
+
+## 2022-09-21
+
+definitely 肯定地，毫无疑问地，明确地，确定地 adv;
+The run rises definitely from the east.
+downstairs 在楼下地，往楼下地 adv;楼下的 adj; 楼下n;
+They are running downstairs.
+dictate 口授，命令，听写 v; 命令，指令 n;
+i dictate a letter to my secretary.
+describe 描述，形容 v;
+She descirbed her missing child to passer-by.
+meantime 同时，其间 n; 同时，当时adv;
+The movie starts in 10 minutes, in the meantime, let's get some popcorn.
+sadness 悲伤，悲哀 n;
+The boy looked at the ice cream on the ground with great sadness.
+primary 主要的，基本的，首要的，最初的，初等教育的 adj; 首选 n;
+we can mark our primary tasks on a piece of paper.
+toss 扔，抛，掷 v; 掷，掷钱币来决定 n;
+The cop tossed a smoke bomb towards the enemies.
+rumour 谣言，传闻 n; 谣传，传闻 v;
+Online rumours shouldn't be trusted.
+radiation 辐射，放射物 n;
+Don't get close to radation if you are not in a protective suit.
+proper 适合的，适用的，正确的，恰当的 adj;
+you should wear a proper outfit at a cocktail party.
+stain 弄脏，玷污，染色 v; 污渍，污迹，染料，着色剂 n;
+His closing is stained with ketchup.
+stroke 击打，鸣声，中风，笔画，连续的动作，心跳，抚摸 n; 奉承，轻抚，击打，心跳 v;
+He hit the ball cleanly with a beautiful stroke.
+refrigerator 冰箱，冷藏库 n;
+Mom put a pot of soup into the fefrigerator.
+audience 观众，听众，读者，拥护者，正式会见 n;
+The audience listened carefully to the speaker.
+being 存在，生物，生命 n; 存在，处于，是v; 现在的，目前的 adj;
+The universe came into being as a result of a big bang.
+derive 源自，获得，得自，引申于 v;
+The English word "teacher" derives from the root word "teach".
+doubt 怀疑， 不确定 v; 怀疑，疑虑 n;
+I really doubt whether aliens exist.
+drum 鼓，鼓声，鼓状物，圆桶 n; 击鼓，连续敲击，引起兴趣 v;
+The little guy shows his talent at playing the drum.
+employer 雇主，老板 n;
+The girl is hired by the employer.
+honesty 诚实，正直 n;
+The boy shows honesty by saying that he broke the vase.
+infect 传染，感染 v;
+He was infected with the cold by his colleague.
+
+## 2022-09-22
+inhabit 居住于，栖息于，占据 v;
+Primitive tribes used to inhabit these forests.
+journal 定期刊物，杂志，报纸，日志，日记 n;
+These are very popular literary jjournals.
+sin 罪孽，罪过，错误，过失 n; 犯过失，违反戒律 v;
+There are seven deadly sins in early Catholic teachings.
+somehow 出于某种原因，不知怎么地。以某种方式。adv;
+He looked different somehow.
+### wealth
+n. 财富，财产，大量
+He is a man of  great wealth.
+### cope
+vi. 处理，对付，对抗
+vt. 笼罩
+n. 长袍，斗篷状覆盖物
+The experienced captain can cope with the dangerous situation and find a solution.
+### architecture
+n. 建筑学，建筑风格，建筑设计，建筑业，建筑体系，建筑物
+Our professor is explaining the theory of the architecture in class.
+### modest
+adj. 谦虚的，端庄的，适度的，有节制的
+He is always modest about his excellent grades.
+### courage
+n. 勇气，胆量
+It needs a lot of courage for the little girl to climb the rock wall.
+### appetite
+n. 食欲，胃口，强烈欲望，嗜好
+Wow, what a huge appetite you have!
+### agent 
+n. 代理商，代理人，特工，药剂
+The agent helped us buy a new house.
+### labor
+n. 劳动，劳力，劳工，劳方
+v. 劳动，苦干，分娩阵痛，致力于，过分详尽阐述
+adj. 劳工的，劳动的
+- These two people work in manual labor.
+### manual
+adj. 手工的，体力的，手动的，用手操作的
+n. 使用手册，说明书，手动换挡的车辆
+### intellectual
+adj. 智力的，聪明的
+n. 知识分子，凭理智做事者
+- Newton's intellectual mind had been inspired by an apple.
+### interest
+n. 兴趣，利益，利息，嗜好，股份
+v. 使感兴趣
+- The little boy read the book with  great interest.
+### undertaking
+n. 任务，事业，企业，承诺，保证
+- Moving this stone is a difficult undertaking for him.
+### manufacturer
+n. 制造商，制造厂
+- Our company is a large manufacturer of household goods.
+### household 
+n. 家庭，一家人，家务，王室
+adj. 家用的，家务的，全家人的，家喻户晓的，皇家的
+### liar
+n. 说谎的人
+### distinguish
+v. 区别，识别，辨别，使显著
+- It's easy to distinguish the blue man from the gray men.
+### echo
+n. 回声，反响，共鸣
+vt. 重复，流传，呼应
+- If you shout in this valley, you'll hear an echo.
+### valley
+n. 山谷，流域，溪谷
+### heap
+n. (一)堆，大量
+v. 堆积
+- There is a heap of sand on the ground.
+### disappoint
+v. 使失望，使受挫折
+- The exam result disappointed him.
+### exam
+n. 考试，试卷
+### extremely
+adv. 极其，非常，极端地
+- Compared with Earth, the Sun is extremely large.
+### injure
+vt. 使受伤，损害，使....受冤屈
+- The worker injured himself at construction site.
+### equivalent
+adj. 相等的，等值的
+n. 等价物
+- The price of the luxury car is equivalent to ten times his annual salary.
+### rat
+n. 老鼠，耗子，卑鄙的人，变节者
+v. 揭发
+- Look! The three rats waving to us.
+### ordinary
+adj. 普通的，平常的，平淡的，平庸的
+- I'm just a ordinary man.
+### sketch
+v. 画素描，描绘略图，写生
+n. 素描，草图，速写，梗概
+- The artist sketched a dress on the paper.
