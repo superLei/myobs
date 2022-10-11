@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "技术/vim/高级命令.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -79,11 +79,11 @@
               "state": {
                 "file": "技术/vim/高级命令.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -138,14 +138,14 @@
   },
   "active": "e9431556098a99cf",
   "lastOpenFiles": [
-    "工作/自动化框架.md",
+    "技术/vscode/vscode debug.md",
     "技术/vim/高级命令.md",
+    "工作/自动化框架.md",
     "生活/电视安装应用.md",
     "音乐/乐理知识.md",
     "学习/2022/english/daily learning.md",
     "学习/2022/english/英语十大词性.md",
     "学习/2022/english/英语句子学习.md",
-    "技术/vscode/vscode debug.md",
     "技术/vpn/v2ray+tls+cloundflare救活被墙vps.md",
     "2022-09-02.md"
   ]
