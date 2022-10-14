@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "技术/vim/高级命令.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -79,11 +79,11 @@
               "state": {
                 "file": "技术/vim/高级命令.md",
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
