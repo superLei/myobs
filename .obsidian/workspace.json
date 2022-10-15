@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术/vim/高级命令.md",
-                "mode": "preview",
+                "file": "生活/电视安装应用.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术/vim/高级命令.md",
+                "file": "生活/电视安装应用.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术/vim/高级命令.md",
+                "file": "生活/电视安装应用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术/vim/高级命令.md"
+                "file": "生活/电视安装应用.md"
               }
             }
           },
@@ -160,10 +160,10 @@
   "active": "e9431556098a99cf",
   "lastOpenFiles": [
     "工作/自动化框架.md",
+    "音乐/乐理知识.md",
+    "生活/电视安装应用.md",
     "技术/vim/高级命令.md",
     "技术/vscode/vscode debug.md",
-    "生活/电视安装应用.md",
-    "音乐/乐理知识.md",
     "学习/2022/english/daily learning.md",
     "学习/2022/english/英语十大词性.md",
     "学习/2022/english/英语句子学习.md",
