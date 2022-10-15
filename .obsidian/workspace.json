@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "技术/vim/高级命令.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 230.5
   },
   "right": {
     "id": "8fd8c813c64202d7",
@@ -158,11 +157,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8c957c94dbe07239",
+  "active": "e9431556098a99cf",
   "lastOpenFiles": [
-    "技术/vscode/vscode debug.md",
-    "技术/vim/高级命令.md",
     "工作/自动化框架.md",
+    "技术/vim/高级命令.md",
+    "技术/vscode/vscode debug.md",
     "生活/电视安装应用.md",
     "音乐/乐理知识.md",
     "学习/2022/english/daily learning.md",
