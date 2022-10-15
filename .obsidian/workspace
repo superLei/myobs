@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "学习/2022/english/英语句子学习.md",
+            "file": "技术/vim/高级命令.md",
             "mode": "source",
             "source": false
           }
@@ -77,13 +77,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习/2022/english/英语句子学习.md",
+                "file": "技术/vim/高级命令.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习/2022/english/英语句子学习.md",
+                "file": "技术/vim/高级命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习/2022/english/英语句子学习.md"
+                "file": "技术/vim/高级命令.md"
               }
             }
           },
@@ -138,8 +138,8 @@
   },
   "active": "e9431556098a99cf",
   "lastOpenFiles": [
-    "技术/vim/高级命令.md",
     "技术/vscode/vscode debug.md",
+    "技术/vim/高级命令.md",
     "工作/自动化框架.md",
     "生活/电视安装应用.md",
     "音乐/乐理知识.md",
