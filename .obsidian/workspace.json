@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活/电视安装应用.md",
+                "file": "技术/vim/高级命令.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "8c957c94dbe07239",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生活/电视安装应用.md",
+                "file": "技术/vim/高级命令.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生活/电视安装应用.md",
+                "file": "技术/vim/高级命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生活/电视安装应用.md"
+                "file": "技术/vim/高级命令.md"
               }
             }
           },
@@ -159,15 +149,15 @@
   },
   "active": "e9431556098a99cf",
   "lastOpenFiles": [
+    "技术/vpn/v2ray+tls+cloundflare救活被墙vps.md",
+    "学习/2022/english/英语句子学习.md",
+    "生活/电视安装应用.md",
     "工作/自动化框架.md",
     "音乐/乐理知识.md",
-    "生活/电视安装应用.md",
     "技术/vim/高级命令.md",
     "技术/vscode/vscode debug.md",
     "学习/2022/english/daily learning.md",
     "学习/2022/english/英语十大词性.md",
-    "学习/2022/english/英语句子学习.md",
-    "技术/vpn/v2ray+tls+cloundflare救活被墙vps.md",
     "2022-09-02.md"
   ]
 }
