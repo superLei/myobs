@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "455980dbf98e62d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "技术/mac/常用命令.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生活/电视安装应用.md",
+                "file": "技术/mac/常用命令.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生活/电视安装应用.md",
+                "file": "技术/mac/常用命令.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生活/电视安装应用.md"
+                "file": "技术/mac/常用命令.md"
               }
             }
           },
@@ -147,13 +160,13 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e9431556098a99cf",
+  "active": "455980dbf98e62d6",
   "lastOpenFiles": [
+    "生活/电视安装应用.md",
     "工作/自动化框架.md",
     "技术/vim/高级命令.md",
     "技术/vpn/v2ray+tls+cloundflare救活被墙vps.md",
     "学习/2022/english/英语句子学习.md",
-    "生活/电视安装应用.md",
     "音乐/乐理知识.md",
     "技术/vscode/vscode debug.md",
     "学习/2022/english/daily learning.md",
