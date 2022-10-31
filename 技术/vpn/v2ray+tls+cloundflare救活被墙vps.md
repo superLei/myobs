@@ -140,9 +140,11 @@ _*不执行这一步则不会使用 "CDN中转", 如 IP 可用则不建议开启
 ```sh
 ufw allow 443
 ufw allow <ssh端口号>
+ufw delete allow 3306 (删除已开放的端口)
 ```
 2. 启用防火墙
 ```bash
 ufw status
 ufw enable
 ```
+3. [[查看systemd服务日志]]
