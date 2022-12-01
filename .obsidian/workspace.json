@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d8f1e44a14de92f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "生活/装修.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术/vpn/v2ray+tls+cloundflare救活被墙vps.md",
+                "file": "生活/装修.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术/vpn/v2ray+tls+cloundflare救活被墙vps.md",
+                "file": "生活/装修.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术/vpn/v2ray+tls+cloundflare救活被墙vps.md"
+                "file": "生活/装修.md"
               }
             }
           },
@@ -145,13 +158,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4167ce547d5e668f",
+  "active": "d8f1e44a14de92f5",
   "lastOpenFiles": [
+    "技术/vpn/v2ray+tls+cloundflare救活被墙vps.md",
     "技术/vim/高级命令.md",
     "技术/mac/常用命令.md",
     "技术/linux/查看systemd服务日志.md",
     "工作/自动化框架.md",
-    "技术/vpn/v2ray+tls+cloundflare救活被墙vps.md",
     "学习/2022/english/daily learning.md",
     "音乐/乐理知识.md",
     "学习/2022/english/英语十大词性.md",
