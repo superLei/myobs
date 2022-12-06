@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活/装修/插座预留.md",
+                "file": "生活/装修/装修11.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5,
-    "collapsed": true
+    "width": 230.5
   },
   "right": {
     "id": "8fd8c813c64202d7",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生活/装修/插座预留.md",
+                "file": "生活/装修/装修11.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生活/装修/插座预留.md",
+                "file": "生活/装修/装修11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生活/装修/插座预留.md"
+                "file": "生活/装修/装修11.md"
               }
             }
           },
@@ -148,6 +147,7 @@
   },
   "active": "217a29a284ecc005",
   "lastOpenFiles": [
+    "生活/装修/插座预留.md",
     "生活/装修/装修11.md",
     "技术/vpn/v2ray+tls+cloundflare救活被墙vps.md",
     "技术/vim/高级命令.md",
@@ -156,7 +156,6 @@
     "工作/自动化框架.md",
     "学习/2022/english/daily learning.md",
     "音乐/乐理知识.md",
-    "学习/2022/english/英语十大词性.md",
-    "学习/2022/english/英语句子学习.md"
+    "学习/2022/english/英语十大词性.md"
   ]
 }
