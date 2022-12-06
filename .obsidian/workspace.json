@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活/装修/装修11.md",
+                "file": "生活/装修/插座预留.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0bb62b1520701ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "生活/装修/装修02.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5
+    "width": 230.5,
+    "collapsed": true
   },
   "right": {
     "id": "8fd8c813c64202d7",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生活/装修/装修11.md",
+                "file": "生活/装修/插座预留.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生活/装修/装修11.md",
+                "file": "生活/装修/插座预留.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生活/装修/装修11.md"
+                "file": "生活/装修/插座预留.md"
               }
             }
           },
@@ -145,8 +158,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "217a29a284ecc005",
+  "active": "4abbf7dd9d6cfeb0",
   "lastOpenFiles": [
+    "生活/装修/装修02.md",
     "生活/装修/插座预留.md",
     "生活/装修/装修11.md",
     "技术/vpn/v2ray+tls+cloundflare救活被墙vps.md",
@@ -155,7 +169,6 @@
     "技术/linux/查看systemd服务日志.md",
     "工作/自动化框架.md",
     "学习/2022/english/daily learning.md",
-    "音乐/乐理知识.md",
-    "学习/2022/english/英语十大词性.md"
+    "音乐/乐理知识.md"
   ]
 }
