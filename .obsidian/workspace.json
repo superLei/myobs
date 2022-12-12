@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c25d96df77dc7892",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "生活/装修/花费清单.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -147,15 +159,15 @@
   },
   "active": "217a29a284ecc005",
   "lastOpenFiles": [
-    "生活/装修/装修-家具选择及注意事项.md",
+    "生活/装修/花费清单.md",
     "生活/装修/插座预留.md",
+    "生活/装修/装修-家具选择及注意事项.md",
     "生活/装修/装修11.md",
     "技术/vpn/v2ray+tls+cloundflare救活被墙vps.md",
     "技术/vim/高级命令.md",
     "技术/mac/常用命令.md",
     "技术/linux/查看systemd服务日志.md",
     "工作/自动化框架.md",
-    "学习/2022/english/daily learning.md",
-    "音乐/乐理知识.md"
+    "学习/2022/english/daily learning.md"
   ]
 }
