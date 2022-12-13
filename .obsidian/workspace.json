@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生活/装修/花费清单.md",
+                "file": "生活/装修/改水电.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生活/装修/花费清单.md",
+                "file": "生活/装修/改水电.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生活/装修/花费清单.md"
+                "file": "生活/装修/改水电.md"
               }
             }
           },
@@ -158,10 +157,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c25d96df77dc7892",
+  "active": "217a29a284ecc005",
   "lastOpenFiles": [
-    "生活/装修/改水电.md",
     "生活/装修/花费清单.md",
+    "生活/装修/改水电.md",
     "生活/装修/装修11.md",
     "生活/装修/装修-家具选择及注意事项.md",
     "生活/装修/吊顶.md",
