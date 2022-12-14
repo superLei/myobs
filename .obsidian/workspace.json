@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活/装修/花费清单.md",
+                "file": "生活/装修/改水电.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生活/装修/花费清单.md",
+                "file": "生活/装修/改水电.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生活/装修/花费清单.md",
+                "file": "生活/装修/改水电.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生活/装修/花费清单.md"
+                "file": "生活/装修/改水电.md"
               }
             }
           },
@@ -147,9 +147,9 @@
   },
   "active": "c25d96df77dc7892",
   "lastOpenFiles": [
+    "生活/装修/花费清单.md",
     "生活/装修/吊顶.md",
     "生活/装修/改水电.md",
-    "生活/装修/花费清单.md",
     "生活/装修/装修11.md",
     "生活/装修/装修-家具选择及注意事项.md",
     "技术/vpn/v2ray+tls+cloundflare救活被墙vps.md",
