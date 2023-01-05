@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活/装修/花费清单.md",
+                "file": "生活/电视安装应用.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 230.5,
-    "collapsed": true
+    "width": 230.5
   },
   "right": {
     "id": "8fd8c813c64202d7",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生活/装修/花费清单.md",
+                "file": "生活/电视安装应用.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生活/装修/花费清单.md",
+                "file": "生活/电视安装应用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生活/装修/花费清单.md"
+                "file": "生活/电视安装应用.md"
               }
             }
           },
@@ -159,6 +158,7 @@
   },
   "active": "4167ce547d5e668f",
   "lastOpenFiles": [
+    "生活/装修/花费清单.md",
     "生活/装修/改水电.md",
     "技术/vim/高级命令.md",
     "技术/vpn/v2ray+tls+cloundflare救活被墙vps.md",
@@ -167,7 +167,6 @@
     "学习/2022/english/英语十大词性.md",
     "学习/2022/english/英语句子学习.md",
     "生活/电视安装应用.md",
-    "技术/mac/常用命令.md",
-    "技术/linux/查看systemd服务日志.md"
+    "技术/mac/常用命令.md"
   ]
 }
