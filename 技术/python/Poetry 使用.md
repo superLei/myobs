@@ -1,3 +1,9 @@
+## poetry是什么
+
+ 简单来说，Poetry 类似pip，能协助你进行套件管理（dependency management），但又比pip 强大得多，因为它还包含了pip 所未有的下列功能：
+   -  虚拟环境管理
+   -  套件相依性管理
+   -  套件的打包与发布
 ## 安装
 ```bash
 curl -sSL https://install.python-poetry.org | python3 -
