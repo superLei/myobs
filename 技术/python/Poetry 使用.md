@@ -50,9 +50,50 @@ poetry config virtualenvs.in-project true
 ```
 好，我们先把之前建立的虚拟环境删除：
 ```bash
-poetry env remove python3
+> poetry env remove python3
+Deleted virtualenv: /Users/lei.susl/Library/Caches/pypoetry/virtualenvs/apitest-g5M07ZnJ-py3.10
 ```
 重新创建.venv环境：
 ```bash
-poetry env use python3
+> poetry env use python3
+Creating virtualenv apitest in /Users/lei.susl/vs_workspace/apiTest/.venv
+Using virtualenv: /Users/lei.susl/vs_workspace/apiTest/.venv
+```
+从结果可以看出：
+-   虚拟环境的路径改为「**项目的根目录**」。
+-   名称固定为`.venv`。
+
+## Poetry 常用指令
+
+#### Poetry 新增package
+```bash
+poetry add pytest
+```
+#### 安装package至dev-dependencies下
+使用`-D`参数，是为了区分开发环境专用的package
+```bash
+poetry add pytest -D
+# 或
+poetry add pytest --dev
+```
+#### 在虚拟环境安装package
+```bash
+poetry install
+```
+#### 将requirements.txt中的包导入到Poetry
+```bash
+poetry export -f requirements.txt -o requirements.txt
+# 导入到 dev-dependencies 下
+poetry export -f requirements.txt -o requirements.txt --dev
+```
+#### 卸载package
+```bash
+poetry remove pytest
+```
+
+#### 启动与退出虚拟环境
+启动虚拟环境，使用指令`poetry shell`：
+```bash
+✗ poetry shell  
+Virtual environment already activated: /Users/lei.susl/vs_workspace/apiTest/.venv
 ```
