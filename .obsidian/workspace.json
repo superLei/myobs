@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3625b90499be5d91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "技术/python/Poetry 使用.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作/自动化框架.md",
+                "file": "技术/python/Poetry 使用.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作/自动化框架.md",
+                "file": "技术/python/Poetry 使用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作/自动化框架.md"
+                "file": "技术/python/Poetry 使用.md"
               }
             }
           },
@@ -156,8 +169,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4167ce547d5e668f",
+  "active": "3625b90499be5d91",
   "lastOpenFiles": [
+    "工作/自动化框架.md",
     "技术/linux/查看systemd服务日志.md",
     "技术/vscode/vscode debug.md",
     "技术/vim/高级命令.md",
@@ -166,7 +180,6 @@
     "生活/装修/改水电.md",
     "技术/vpn/v2ray+tls+cloundflare救活被墙vps.md",
     "学习/2022/english/daily learning.md",
-    "音乐/乐理知识.md",
-    "学习/2022/english/英语十大词性.md"
+    "音乐/乐理知识.md"
   ]
 }
