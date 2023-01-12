@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术/python/Poetry 使用.md",
+                "file": "技术/vscode/vscode debug.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术/python/Poetry 使用.md",
+                "file": "技术/vscode/vscode debug.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术/python/Poetry 使用.md",
+                "file": "技术/vscode/vscode debug.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术/python/Poetry 使用.md"
+                "file": "技术/vscode/vscode debug.md"
               }
             }
           },
@@ -171,6 +171,7 @@
   },
   "active": "3625b90499be5d91",
   "lastOpenFiles": [
+    "技术/python/Poetry 使用.md",
     "工作/自动化框架.md",
     "技术/linux/查看systemd服务日志.md",
     "技术/vscode/vscode debug.md",
@@ -179,7 +180,6 @@
     "生活/装修/花费清单.md",
     "生活/装修/改水电.md",
     "技术/vpn/v2ray+tls+cloundflare救活被墙vps.md",
-    "学习/2022/english/daily learning.md",
-    "音乐/乐理知识.md"
+    "学习/2022/english/daily learning.md"
   ]
 }
