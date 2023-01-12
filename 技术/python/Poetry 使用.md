@@ -4,6 +4,7 @@
    -  虚拟环境管理
    -  套件相依性管理
    -  套件的打包与发布
+   
 ## 安装
 ```bash
 curl -sSL https://install.python-poetry.org | python3 -
@@ -12,7 +13,8 @@ curl -sSL https://install.python-poetry.org | python3 -
 ```bash
 curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poetry.py | python3 -
 ```
-## 使用poetry初始化项目
+
+## poetry初始化已有项目
 ```bash
 poetry init
 ```
@@ -21,8 +23,10 @@ poetry init
 poetry-demo   
 └── pyproject.toml
 ```
+
 ## 管理Poetry 虚拟环境
- 以指令建立虚拟环境
+
+#### 创建虚拟环境:
 ```bash
 poetry env use python3 
 ```
@@ -50,7 +54,7 @@ virtualenvs.path = "{cache-dir}/virtualenvs"  # /Users/lei/Library/Caches/pypoet
 virtualenvs.prefer-active-python = false
 virtualenvs.prompt = "{project_name}-py{python_version}"
 ```
-`virtualenvs.in-project = null`就是我们要修改的目标，使用指令：
+**virtualenvs.in-project = null**就是我们要修改的目标，使用指令：
 ```bash
 poetry config virtualenvs.in-project true
 ```
@@ -68,6 +72,12 @@ Using virtualenv: /Users/lei.susl/vs_workspace/apiTest/.venv
 从结果可以看出：
 -   虚拟环境的路径改为「**项目的根目录**」。
 -   名称固定为`.venv`。
+#### 激活虚拟环境 
+```bash
+poetry shell
+# 退出虚拟环境
+exit
+```
 
 ## Poetry 常用指令
 
@@ -75,6 +85,7 @@ Using virtualenv: /Users/lei.susl/vs_workspace/apiTest/.venv
 ```bash
 poetry add pytest
 ```
+
 #### 安装package至dev-dependencies下
 使用`-D`参数，是为了区分开发环境专用的package
 ```bash
@@ -82,16 +93,24 @@ poetry add pytest -D
 # 或
 poetry add pytest --dev
 ```
+
 #### 在虚拟环境安装package
 ```bash
 poetry install
 ```
+
 #### 将requirements.txt中的包导入到Poetry
 ```bash
+cat requirements.txt | grep -E '^[^# ]' | cut -d= -f1 | xargs -n 1 poetry add
+```
+
+#### 将Poetry中的package导出到requirements.txt中
+```bash
 poetry export -f requirements.txt -o requirements.txt
-# 导入到 dev-dependencies 下
+# 导出到 dev-dependencies 下
 poetry export -f requirements.txt -o requirements.txt --dev
 ```
+
 #### 卸载package
 ```bash
 poetry remove pytest
